@@ -5,6 +5,7 @@ import About from "./components/About";
 import Work from "./components/Work";
 import Education from "./components/Education";
 import Techstack from "./components/Techstack";
+import './font-face.css';
 
 function App() {
   return (

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'aguire';
+    src: url(assets/fonts/aguire.otf) format('truetype');
+}
+
+body {
+    font-family: 'Avinga';
+}
