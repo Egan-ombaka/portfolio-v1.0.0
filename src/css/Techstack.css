@@ -35,19 +35,16 @@
         grid-template-columns: repeat(4, 1fr);
     }
 }
-
 @media (max-width: 768px) {
     .tech-cont {
         grid-template-columns: repeat(3, 1fr);
     }
 }
-
 @media (max-width: 576px) {
     .tech-cont {
         grid-template-columns: repeat(2, 1fr);
     }
 }
-
 @media (max-width: 400px) {
     .tech-cont {
         grid-template-columns: 1fr;
