@@ -26,7 +26,6 @@
     padding: .3em;
     color: black;
 }
-
 @media (max-width: 992px) {
     .tech-section{
         padding: 1em;

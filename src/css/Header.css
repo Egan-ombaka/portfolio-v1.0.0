@@ -25,13 +25,11 @@
     max-width: 400px;
     width: 100%; 
 }
-
 .social-icons{
     display: flex;
     gap: 10px;
     background: transparent;
 }
-
 .social-icons li a{
     background: transparent;
 }
@@ -40,7 +38,6 @@
     font-size: 24px;
     background-color: transparent;
 }
-
 @media (max-width: 768px) {
     .header {
         padding: 1em;
@@ -49,7 +46,6 @@
         border-top-right-radius: 0;
     }
 }
-
 @media (max-width: 480px) {
     .header-container {
         padding: 0;

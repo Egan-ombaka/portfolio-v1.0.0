@@ -19,14 +19,22 @@ const Header = () => {
 
         <ul className="social-icons">
           <li>
-            <a href="https://www.linkedin.com/in/egan-nyamisoa" rel="noopener noreferrer" aria-label="LinkedIn">
+            <a
+              href="https://www.linkedin.com/in/egan-nyamisoa"
+              rel="noopener noreferrer"
+              aria-label="LinkedIn"
+            >
               <span>
                 <FaLinkedinIn className="icons" />
               </span>
             </a>
           </li>
           <li>
-            <a href="https://github.com/egan-ombaka" rel="noopener noreferrer" aria-label="GitHub">
+            <a
+              href="https://github.com/egan-ombaka"
+              rel="noopener noreferrer"
+              aria-label="GitHub"
+            >
               <span>
                 <FaGithub className="icons" />
               </span>

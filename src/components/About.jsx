@@ -14,7 +14,6 @@ const About = () => {
           channel, canddev. There are so many kind-hearted people in the
           programming world, and I aspire to be one of them.
         </p>
-
       </div>
     </div>
   );
